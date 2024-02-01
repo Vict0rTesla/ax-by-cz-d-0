@@ -10,4 +10,4 @@ Enter the a,b,c,d of all the equations:
 x = 1
 y = -3
 z = 3
-```bash
+```
