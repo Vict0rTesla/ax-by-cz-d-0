@@ -1,7 +1,7 @@
 # ax-by-cz-d-0
 this code solves liner equation in three variable
 
-# output
+## output
 ```bash
 Enter the a,b,c,d of all the equations:
 1 2 3 4
