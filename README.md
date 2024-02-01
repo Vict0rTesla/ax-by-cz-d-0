@@ -2,7 +2,7 @@
 this code solves liner equation in three variable
 
 # output
-'''bash
+```bash
 Enter the a,b,c,d of all the equations:
 1 2 3 4
 5 6 7 8 
@@ -10,4 +10,4 @@ Enter the a,b,c,d of all the equations:
 x = 1
 y = -3
 z = 3
-'''bash
+```bash
